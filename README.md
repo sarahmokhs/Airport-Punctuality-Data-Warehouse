@@ -19,4 +19,6 @@ This project explores UK airport punctuality data from 2023–2024 through the d
 
 ## Notes
 
-This was submitted as part of an MSc Data Science assignment. Code snippets, logic, and visualisation steps are embedded within the Word document for full transparency.
+This was submitted as part of an MSc Data Science assignment. Code snippets, logic, and visualisation steps are embedded within the Word document for full transparency. Some files (e.g., Word document or dataset) may be too large to preview directly on GitHub. You can still download and view them locally.
+
+
